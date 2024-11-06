@@ -6,7 +6,6 @@ WIDTH, HEIGHT = 600, 600
 surface = cairo.ImageSurface(cairo.FORMAT_ARGB32, WIDTH, HEIGHT)
 context = cairo.Context(surface)
 
-
 def draw_background(context):
     # Create a radial gradient for the background to add depth
     bg_gradient = cairo.RadialGradient(WIDTH / 2, HEIGHT / 2, WIDTH / 2, WIDTH / 2, HEIGHT / 2, 0)
