@@ -1,4 +1,4 @@
-3D Rotating Bouncing Sphere Simulation
+<h1>3D Rotating Bouncing Sphere Simulation</h1>
 This project simulates a 3D rotating and bouncing sphere using Python and pygame. It uses simple 3D transformations to project points onto a 2D screen, creating an illusion of depth and movement in a 3D space. The sphere can rotate, bounce within the screen, and be color-shaded based on distance to enhance the 3D effect.
 
 Features
